@@ -1,0 +1,1 @@
+document.getElementsById("jkl").style.border = "thick solid #0000FF width=";
